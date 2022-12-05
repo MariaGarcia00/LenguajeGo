@@ -1,1 +1,5 @@
-package m
+package main
+
+func main() {
+	println("Hello World")
+}
